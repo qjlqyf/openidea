@@ -1,0 +1,23 @@
+src/features/run/types.ts
+  s_d986f7235df616::t_af4e65cc95de79 460-462
+src/platform/locales/text/zh.json
+  s_d986f7235df616::t_b8a7d78fa1055f 2-4
+src/bindings.ts
+  s_d986f7235df616::t_30551cac9ea00a 5374-5378
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.18",
+  "base_commit_sha": "4446db23eded3653e37d657feb1dc73cae861e1d",
+  "prompts": {},
+  "sessions": {
+    "s_d986f7235df616": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19ac7-786d-7073-8f02-300acfad1eb0",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "119946 <qiaojianlong@wywk.cn>"
+    }
+  }
+}
