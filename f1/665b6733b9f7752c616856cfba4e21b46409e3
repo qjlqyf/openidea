@@ -1,0 +1,70 @@
+plugins/java-usages/MANIFEST.MF
+  s_d986f7235df616::t_a97120180ee5bf 5
+src/editor/lsp/index.ts
+  s_d986f7235df616::t_5071327d5be7f3 25,64
+crates/ide-sdk/src/java.rs
+  s_d986f7235df616::t_a97120180ee5bf 1176
+src/editor/lsp/navigation.ts
+  s_d986f7235df616::t_6b90128d2fc886 483
+  s_d986f7235df616::t_baaa2d288c13f4 65
+  s_d986f7235df616::t_3cef5a2b13b918 446-450
+  s_d986f7235df616::t_5071327d5be7f3 62-64,66-69,180,361,377-378,436-437,445,451,468,471-477,479-480,486-488,494,732-735
+  s_d986f7235df616::t_0a11e49331151b 438-440
+e2e/configurationNavigation.spec.ts
+  s_d986f7235df616::t_13bf67952630db 1
+  s_d986f7235df616::t_83da3eab0cf395 33-34,36,38-91
+  s_d986f7235df616::t_6f42a0b0e9781c 2-32,35,37
+e2e/configurationNavigation.fixture.ts
+  s_d986f7235df616::t_83da3eab0cf395 17
+  s_d986f7235df616::t_1d42e1bb2ba801 1-16,18-97
+src/editor/lsp/configurationNavigation.test.ts
+  s_d986f7235df616::t_baaa2d288c13f4 34,53,60,64-65,69,72-73,76,79,81,84,90-91,94-95,97-98,101,103,105-107,117-118,120-122,125-126,128,131-133,136,143-144,146,148,150-152,154-155,162-175,177,184,187-188,190-192,199,202,204-207
+  s_d986f7235df616::t_3cef5a2b13b918 54-59,137-142,156-161
+  s_d986f7235df616::t_197c38d2104213 1-33,35-52,61-63,66-68,70-71,74-75,77-78,80,82-83,85-89,92-93,96,99-100,102,104,108-116,119,123-124,127,129-130,134-135,145,147,149,153,176,178-183,185-186,189,193-198,200-201,203,208
+knip.ts
+  s_d986f7235df616::t_13bf67952630db 4-5
+crates/ide-host/src/data_dirs.rs
+  s_d986f7235df616::t_a97120180ee5bf 61,304
+plugins/java-usages/CONFIGURATION.md
+  s_d986f7235df616::t_3cef5a2b13b918 80-81
+  s_d986f7235df616::t_74610e2c2d5e69 10-14,65-79,82-86,128-130,140-148
+plugins/java-usages/tests/configuration.py
+  s_d986f7235df616::t_2955ff9e812335 221,225-250
+  s_d986f7235df616::t_a709dfdfba89f3 54,90-107,127,175,181,218-220,222-224,251,254-255
+plugins/java-usages/src/ai/openidea/configuration/ConfigurationCommand.java
+  s_d986f7235df616::t_a6c9ad50409a9a 8,32-33,35-39,41-61,63-65,73-96,117,166,209-219,227-231,248-249,282-284
+  s_d986f7235df616::t_74610e2c2d5e69 237
+  s_d986f7235df616::t_a97120180ee5bf 40
+  s_d986f7235df616::t_a3e77706c2f732 62
+plugins/java-usages/README.md
+  s_d986f7235df616::t_74610e2c2d5e69 60
+  s_d986f7235df616::t_3cef5a2b13b918 73-74
+  s_d986f7235df616::t_f288db752db0a1 75
+src/editor/lsp/configurationNavigation.ts
+  s_d986f7235df616::t_13bf67952630db 98
+  s_d986f7235df616::t_5071327d5be7f3 131
+  s_d986f7235df616::t_4f2f49c8dfaa93 1-21,23-41,67-78,80-90,92-97,99,101-128,130,132-133,135-147
+  s_d986f7235df616::t_3cef5a2b13b918 57-64
+  s_d986f7235df616::t_baaa2d288c13f4 22,42-56,65-66,91,100,129,134
+  s_d986f7235df616::t_cb350cb03ddd6d 79
+e2e/configurationNavigation.html
+  s_d986f7235df616::t_bfdadf3efaa13a 1-10
+src/editor/lsp/syntaxFallback.test.ts
+  s_d986f7235df616::t_6378e0e43d3c7b 48,103,588-648
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.18",
+  "base_commit_sha": "f1665b6733b9f7752c616856cfba4e21b46409e3",
+  "prompts": {},
+  "sessions": {
+    "s_d986f7235df616": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19ac7-786d-7073-8f02-300acfad1eb0",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "119946 <qiaojianlong@wywk.cn>"
+    }
+  }
+}
