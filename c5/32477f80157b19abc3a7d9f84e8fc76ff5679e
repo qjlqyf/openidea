@@ -1,0 +1,39 @@
+crates/ide-lsp/src/jdtls.rs
+  s_d986f7235df616::t_f81292024244d4 8
+  s_d986f7235df616::t_9f9ff9ffb096f5 9,13
+crates/ide-host/src/project.rs
+  s_d986f7235df616::t_eae83523e4afcc 17
+  s_d986f7235df616::t_9f9ff9ffb096f5 18,1142-1147,1156-1158
+crates/ide-lsp/tests/mock_server.rs
+  s_d986f7235df616::t_4ea9e3a0dea521 14
+  s_d986f7235df616::t_9f9ff9ffb096f5 11,15,1337-1342,1729-1737
+plugins/java-usages/README.md
+  s_d986f7235df616::t_816ee1cd0cc626 73
+crates/ide-sdk/src/java.rs
+  s_d986f7235df616::t_9f9ff9ffb096f5 32,583
+crates/ide-host/src/data_dirs.rs
+  s_d986f7235df616::t_9f9ff9ffb096f5 20,30,40,208,469-474
+crates/ide-lsp/src/jdtls/formatter.rs
+  s_d986f7235df616::t_9f9ff9ffb096f5 1
+  s_d986f7235df616::t_734072d36c8db6 205
+crates/ide-tools/src/lib.rs
+  s_d986f7235df616::t_c02e6c6b20bfe1 11-16
+crates/ide-tools/src/process.rs
+  s_d986f7235df616::t_88b488bdff3314 9,11,147-239,244-245,253-255,264-279,281-285,293-298,300,325,332,334,371-374,388-389,391,422-425,573,678-866
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.18",
+  "base_commit_sha": "c532477f80157b19abc3a7d9f84e8fc76ff5679e",
+  "prompts": {},
+  "sessions": {
+    "s_d986f7235df616": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19ac7-786d-7073-8f02-300acfad1eb0",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "119946 <qiaojianlong@wywk.cn>"
+    }
+  }
+}
