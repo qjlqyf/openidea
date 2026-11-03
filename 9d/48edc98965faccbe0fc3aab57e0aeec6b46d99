@@ -1,0 +1,30 @@
+src/editor/lsp/configurationNavigation.ts
+  s_d986f7235df616::t_ffbc59ee58fe99 42-49,52-54,67,82
+  s_d986f7235df616::t_2bf34fca65a2ad 50-51
+src/editor/lsp/configurationNavigation.test.ts
+  s_d986f7235df616::t_2ee2ec403c67d5 15,52-61
+src/editor/lsp/navigation.ts
+  s_d986f7235df616::t_ffbc59ee58fe99 65,348
+src/editor/lsp/syntaxFallback.test.ts
+  s_d986f7235df616::t_ffbc59ee58fe99 610-621
+e2e/configurationNavigation.fixture.ts
+  s_d986f7235df616::t_d05621bd2e578c 45-48,66
+e2e/configurationNavigation.spec.ts
+  s_d986f7235df616::t_30811ddb19ab5d 5,13,37,88
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.18",
+  "base_commit_sha": "9d48edc98965faccbe0fc3aab57e0aeec6b46d99",
+  "prompts": {},
+  "sessions": {
+    "s_d986f7235df616": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19ac7-786d-7073-8f02-300acfad1eb0",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "119946 <qiaojianlong@wywk.cn>"
+    }
+  }
+}
