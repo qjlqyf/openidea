@@ -1,0 +1,46 @@
+plugins/java-usages/src/ai/openidea/configuration/ConfigurationCommand.java
+  s_d986f7235df616::t_8a0e7b9235b42f 9-10,36,103,186,211-235,237-238,314-326
+plugins/java-usages/plugin.xml
+  s_d986f7235df616::t_8a0e7b9235b42f 9
+crates/ide-lsp/src/jdtls.rs
+  s_d986f7235df616::t_8a0e7b9235b42f 337,353,365-389
+  s_d986f7235df616::t_f81292024244d4 9,13,328-336,338-352,354-357,390,755
+crates/ide-host/src/data_dirs.rs
+  s_d986f7235df616::t_7567e2ef319787 20-24,34-38,48-52,74,222-226,322,489-492
+crates/ide-host/src/project.rs
+  s_d986f7235df616::t_eae83523e4afcc 18,434,1143-1146,1155-1159
+crates/ide-host/src/trust.rs
+  s_d986f7235df616::t_f4c5384412a767 121
+crates/ide-lsp/src/jdtls/formatter.rs
+  s_d986f7235df616::t_aa9aa58b1efcef 3,205
+crates/ide-lsp/tests/mock_server.rs
+  s_d986f7235df616::t_4ea9e3a0dea521 11,15,1337-1341,1728-1735,1742,2724,3006-3053
+crates/ide-sdk/src/java.rs
+  s_d986f7235df616::t_0215aa10e8cdf9 32-36,587-591,1184
+plugins/java-usages/CONFIGURATION.md
+  s_d986f7235df616::t_62eb87e7512fa8 60-79,103,114
+plugins/java-usages/MANIFEST.MF
+  s_d986f7235df616::t_544418301061de 5
+plugins/java-usages/README.md
+  s_d986f7235df616::t_816ee1cd0cc626 60,77-80
+plugins/java-usages/src/ai/openidea/configuration/ConfigurationWarmup.java
+  s_d986f7235df616::t_192cfbfe807e29 1-111
+plugins/java-usages/tests/configuration.py
+  s_d986f7235df616::t_fa7d671a6dbf88 134-140,187-215,221-224,273,283-296,298
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.18",
+  "base_commit_sha": "fdcf11aa691ad4044b7a29ef6301d5624032d538",
+  "prompts": {},
+  "sessions": {
+    "s_d986f7235df616": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19ac7-786d-7073-8f02-300acfad1eb0",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "119946 <qiaojianlong@wywk.cn>"
+    }
+  }
+}
