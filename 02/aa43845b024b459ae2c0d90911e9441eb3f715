@@ -1,0 +1,21 @@
+crates/ide-tools/src/lib.rs
+  s_d986f7235df616::t_c02e6c6b20bfe1 11-16
+crates/ide-tools/src/process.rs
+  s_d986f7235df616::t_88b488bdff3314 9,11,147-239,244-245,253-255,264-279,281-285,293-298,300,325,332,334,371-374,388-389,391,422-425,573,678-866
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.18",
+  "base_commit_sha": "02aa43845b024b459ae2c0d90911e9441eb3f715",
+  "prompts": {},
+  "sessions": {
+    "s_d986f7235df616": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19ac7-786d-7073-8f02-300acfad1eb0",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "119946 <qiaojianlong@wywk.cn>"
+    }
+  }
+}
