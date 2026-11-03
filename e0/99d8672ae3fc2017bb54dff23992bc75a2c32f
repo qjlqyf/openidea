@@ -1,0 +1,30 @@
+crates/ide-lsp/tests/mock_server.rs
+  s_d986f7235df616::t_9f9ff9ffb096f5 11,15,1337-1342,1729-1737
+crates/ide-sdk/src/java.rs
+  s_d986f7235df616::t_9f9ff9ffb096f5 32,583
+crates/ide-host/src/project.rs
+  s_d986f7235df616::t_9f9ff9ffb096f5 18,1143-1148,1157-1159
+crates/ide-host/src/data_dirs.rs
+  s_d986f7235df616::t_9f9ff9ffb096f5 20,30,40,210,473-478
+crates/ide-lsp/src/jdtls/formatter.rs
+  s_d986f7235df616::t_9f9ff9ffb096f5 1
+  s_d986f7235df616::t_734072d36c8db6 205
+crates/ide-lsp/src/jdtls.rs
+  s_d986f7235df616::t_9f9ff9ffb096f5 9,13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.18",
+  "base_commit_sha": "e099d8672ae3fc2017bb54dff23992bc75a2c32f",
+  "prompts": {},
+  "sessions": {
+    "s_d986f7235df616": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19ac7-786d-7073-8f02-300acfad1eb0",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "119946 <qiaojianlong@wywk.cn>"
+    }
+  }
+}
