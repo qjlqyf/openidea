@@ -1,0 +1,137 @@
+sdk/rust/openidea-plugin/src/lib.rs
+  s_d986f7235df616::t_8bb8404e60ca8e 118-128,179-196,513-529,531-551
+  s_d986f7235df616::t_67572cb8745263 43,530,552-553
+crates/ide-host/src/plugins/mod.rs
+  s_d986f7235df616::t_ca71f62e5d9ae8 47
+  s_d986f7235df616::t_58d8679674e96e 313,402
+  s_d986f7235df616::t_dcb3b2c89ba92f 23,27,1888,1960,1970,1979
+crates/ide-index/src/lib.rs
+  s_d986f7235df616::t_9935f08e85d56f 162-198
+docs/plugins/indexing.md
+  s_d986f7235df616::t_cb33b378283679 1-43
+crates/ide-plugin/src/wit_host.rs
+  s_d986f7235df616::t_9935f08e85d56f 663-669
+src/platform/locales/text/zh.json
+  s_d986f7235df616::t_ab350d70193517 6080-6084
+src/features/project-tree/ProjectView.tsx
+  s_d986f7235df616::t_9935f08e85d56f 1,285,292
+src/ui/icons.tsx
+  s_d986f7235df616::t_9935f08e85d56f 1120
+  s_d986f7235df616::t_449860ad38037d 1121-1124
+src/editor/lsp/navigationMouse.test.ts
+  s_d986f7235df616::t_9935f08e85d56f 1,74-90
+crates/ide-host/src/plugins/navigation.rs
+  s_d986f7235df616::t_58d8679674e96e 1-6,9-225,227-244,246-280,282-340,342-427,442-459,461-470,473,476-490,492-493
+  s_d986f7235df616::t_449860ad38037d 428-432,434-438,440-441
+  s_d986f7235df616::t_b752b5de104a26 7-8,226,245,281,341,433,439,460,471-472,474-475,491
+crates/ide-host/src/plugins/providers.rs
+  s_d986f7235df616::t_ca71f62e5d9ae8 183,187-188
+  s_d986f7235df616::t_d6d709815fadf3 189-190
+src/features/plugins/presentation.test.ts
+  s_d986f7235df616::t_9935f08e85d56f 1-139
+wit/indexing.wit
+  s_d986f7235df616::t_9935f08e85d56f 1-26
+crates/ide-host/src/plugins/points.rs
+  s_d986f7235df616::t_58d8679674e96e 59
+crates/ide-index/src/tests.rs
+  s_d986f7235df616::t_9935f08e85d56f 546-565
+crates/ide-plugin/src/runtime.rs
+  s_d986f7235df616::t_58d8679674e96e 648-651,663-664
+  s_d986f7235df616::t_9935f08e85d56f 29,462,551,564-567,574,647,652-662,665-695
+  s_d986f7235df616::t_a07f2519279f08 14,696-697
+src/platform/pluginPresentation.test.ts
+  s_d986f7235df616::t_9935f08e85d56f 1-55
+crates/ide-workspace/src/documents.rs
+  s_d986f7235df616::t_9935f08e85d56f 738-742
+plugins/README.md
+  s_d986f7235df616::t_cb33b378283679 141-148
+src/platform/pluginPresentation.ts
+  s_d986f7235df616::t_9935f08e85d56f 1-98
+  s_d986f7235df616::t_472bea845f6b59 99
+src/editor/navigationProviders.test.ts
+  s_d986f7235df616::t_9935f08e85d56f 1-97
+src/features/plugins/navigation.test.ts
+  s_d986f7235df616::t_9935f08e85d56f 1-53,55-65,68-88,90-106,108-130
+  s_d986f7235df616::t_b26b52cfaa0c07 54,66-67,89,107
+src/features/plugins/navigation.ts
+  s_d986f7235df616::t_9935f08e85d56f 1-40,43-46,54-134,136-207
+  s_d986f7235df616::t_c554238efd1e80 41-42,47-53,135
+src/features/plugins/lineMarkerGutter.ts
+  s_d986f7235df616::t_75b0c17173ca2b 62-63,67-70
+  s_d986f7235df616::t_6f3dd32937dfc3 11-12,82,89-95,130
+src/editor/lsp/navigation.ts
+  s_d986f7235df616::t_9935f08e85d56f 1-6,66,168-182,378-383,405,407,410,420-428,432,475-476,483-485,502,505-511,517-518
+src/editor/navigationProviders.ts
+  s_d986f7235df616::t_9935f08e85d56f 1-85
+crates/ide-host/src/ops/lsp.rs
+  s_d986f7235df616::t_ca71f62e5d9ae8 199-209
+sdk/rust/openidea-plugin/wit/indexing.wit
+  s_d986f7235df616::t_9935f08e85d56f 1-26
+crates/ide-plugin/src/indexing.rs
+  s_d986f7235df616::t_58d8679674e96e 62-65,67
+  s_d986f7235df616::t_9935f08e85d56f 1-61
+  s_d986f7235df616::t_701f103596fac8 66
+src/features/plugins/presentation.ts
+  s_d986f7235df616::t_9935f08e85d56f 1-19,22-31,33-171,173-282
+  s_d986f7235df616::t_b896ae4b4da283 20-21,32,172
+sdk/rust/openidea-plugin/src/indexing.rs
+  s_d986f7235df616::t_8bb8404e60ca8e 1-8,10-13,15-18,20-22,24-26,28-33,35-40,42-45
+  s_d986f7235df616::t_0a65ef5eb69973 9,14,19,23,27,34,41
+src/platform/filePresentation.ts
+  s_d986f7235df616::t_9935f08e85d56f 1,166-167,175,180,189-191
+  s_d986f7235df616::t_8bb8404e60ca8e 5,195
+crates/ide-host/src/lib.rs
+  s_d986f7235df616::t_d86987495438c2 183-186
+crates/ide-host/src/plugins/index_ops.rs
+  s_d986f7235df616::t_b1411be12d4cba 1-177
+crates/ide-host/src/plugins/remote_host.rs
+  s_d986f7235df616::t_1b973777846129 448-485
+crates/ide-host/src/plugins/types.rs
+  s_d986f7235df616::t_c97da7ffa4ba40 156-157
+crates/ide-plugin/src/lib.rs
+  s_d986f7235df616::t_732309b753c7fd 12
+src-tauri/src/commands/mod.rs
+  s_d986f7235df616::t_7d3bcbde1011d6 455-459
+src-tauri/src/commands/plugin.rs
+  s_d986f7235df616::t_ed95447c3874e0 636-704
+src/bindings.ts
+  s_8b1992f528eea6::t_4f523c5a8b36e2 981-988,3265-3269,3469-3476,5102-5112,5307-5308
+src/features/plugins/index.ts
+  s_d986f7235df616::t_93d55006f4a25f 1-2,138-139
+src/features/plugins/lineMarkerGutter.test.ts
+  s_d986f7235df616::t_4aa42d5676a822 1-56
+src/features/plugins/navigationButton.ts
+  s_d986f7235df616::t_c8f658ef50a387 1-34
+crates/ide-plugin/tests/fixtures/misbehave/dist/plugin.wasm.sources
+  s_d986f7235df616::t_ad9aee74152d8d 1
+plugins/official/checkstyle/dist/plugin.wasm.sources
+  s_d986f7235df616::t_7b3538337e286f 1
+plugins/official/csv-editor/dist/plugin.wasm.sources
+  s_d986f7235df616::t_1b1a8baadd6a5b 1
+plugins/official/git-toolbox/dist/plugin.wasm.sources
+  s_d986f7235df616::t_48fbc3f8e12780 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.18",
+  "base_commit_sha": "e7b3e002828bd29501cee63d7b57384f89220e11",
+  "prompts": {},
+  "sessions": {
+    "s_8b1992f528eea6": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1a5ab-50f3-7b61-ab75-08a29c1f6cae",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "119946 <qiaojianlong@wywk.cn>"
+    },
+    "s_d986f7235df616": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19ac7-786d-7073-8f02-300acfad1eb0",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "119946 <qiaojianlong@wywk.cn>"
+    }
+  }
+}
