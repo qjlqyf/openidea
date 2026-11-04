@@ -1,0 +1,49 @@
+crates/ide-host/tests/plugin_indexing.rs
+  s_d986f7235df616::t_449860ad38037d 197-200
+  s_d986f7235df616::t_51e37f473b8eef 1-196,201-210
+plugins/official/mybatis/plugin.toml
+  s_d986f7235df616::t_449860ad38037d 22-33
+  s_d986f7235df616::t_8bb8404e60ca8e 17,19-21
+  s_d986f7235df616::t_6c2636d1af4307 3,7
+crates/ide-host/tests/plugins.rs
+  s_d986f7235df616::t_0f23f84bab351f 1822,1825-1826,1828,1836-1846,1848-1850,1852-1853,1855-1864,1866-1871
+  s_d986f7235df616::t_8bac441d817acd 1851
+plugins/official/mybatis/icons/mybatisXml_dark.svg
+  s_d986f7235df616::t_449860ad38037d 1
+plugins/official/mybatis/icons/mybatisJava_dark.svg
+  s_d986f7235df616::t_449860ad38037d 1
+plugins/official/mybatis/icons/mybatisXml.svg
+  s_d986f7235df616::t_449860ad38037d 1
+plugins/official/mybatis/src/associations.rs
+  s_d986f7235df616::t_64ce02d98f959b 5,10,26,33,48
+  s_d986f7235df616::t_8bb8404e60ca8e 1-4,6-9,11-25,27-32,34-47,49-521
+plugins/official/mybatis/Cargo.toml
+  s_d986f7235df616::t_8bb8404e60ca8e 14
+  s_d986f7235df616::t_46bbb3ed434c51 3
+plugins/official/mybatis/README.md
+  s_d986f7235df616::t_cb33b378283679 1-16
+plugins/official/mybatis/src/lib.rs
+  s_d986f7235df616::t_8bb8404e60ca8e 208-255
+  s_d986f7235df616::t_cb33b378283679 8,10,135
+  s_d986f7235df616::t_a103ce880e6364 6-7,300
+plugins/official/mybatis/icons/mybatisJava.svg
+  s_d986f7235df616::t_449860ad38037d 1
+plugins/official/mybatis/dist/plugin.wasm.sources
+  s_d986f7235df616::t_5d71c0e80f1ca8 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.18",
+  "base_commit_sha": "8125d953c0dd6f60a1755b03ec38d9a0089f9f98",
+  "prompts": {},
+  "sessions": {
+    "s_d986f7235df616": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19ac7-786d-7073-8f02-300acfad1eb0",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "119946 <qiaojianlong@wywk.cn>"
+    }
+  }
+}
