@@ -1,0 +1,45 @@
+crates/ide-plugin/tests/fixtures/hello/dist/plugin.wasm.sources
+  s_d986f7235df616::t_8dffdb7077c968 1
+crates/ide-plugin/tests/fixtures/jobs/dist/plugin.wasm.sources
+  s_d986f7235df616::t_061bf425b94dd7 1
+crates/ide-plugin/tests/fixtures/misbehave/dist/plugin.wasm.sources
+  s_d986f7235df616::t_d6aacdce1a9359 1
+plugins/official/ai-completion/dist/plugin.wasm.sources
+  s_d986f7235df616::t_50e3eb69002627 1
+plugins/official/checkstyle/dist/plugin.wasm.sources
+  s_d986f7235df616::t_e6524aa2317a10 1
+plugins/official/csv-editor/dist/plugin.wasm.sources
+  s_d986f7235df616::t_587ed649b5d31a 1
+plugins/official/git-toolbox/dist/plugin.wasm.sources
+  s_d986f7235df616::t_4c79dafce055d2 1
+plugins/official/graphviz/dist/plugin.wasm.sources
+  s_d986f7235df616::t_78d37e1a9a0c4c 1
+plugins/official/key-promoter/dist/plugin.wasm.sources
+  s_d986f7235df616::t_214aaa2bd94b85 1
+plugins/official/license-header/dist/plugin.wasm.sources
+  s_d986f7235df616::t_7e4b24736f3513 1
+plugins/official/mybatis/dist/plugin.wasm.sources
+  s_d986f7235df616::t_f3e54d97bccfcc 1
+plugins/official/regex-tester/dist/plugin.wasm.sources
+  s_d986f7235df616::t_f36777ea986a81 1
+plugins/official/solidity/dist/plugin.wasm.sources
+  s_d986f7235df616::t_eca0972b96cdc0 1
+plugins/official/string-tools/dist/plugin.wasm.sources
+  s_d986f7235df616::t_6c1a91cb388494 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.18",
+  "base_commit_sha": "f463a4f5ee81967a76c723d8135d91682a2e3bfb",
+  "prompts": {},
+  "sessions": {
+    "s_d986f7235df616": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19ac7-786d-7073-8f02-300acfad1eb0",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "119946 <qiaojianlong@wywk.cn>"
+    }
+  }
+}
